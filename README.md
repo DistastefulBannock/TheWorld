@@ -1,5 +1,5 @@
 ## The world
-<img alt="This image has a more advanced method of world generation" src="https://github.com/DistastefulBannock/TheWorld/blob/master/readmeimgs/earf.png?raw=true" width="500">
+<img alt="The map that is shown in this application" src="https://github.com/DistastefulBannock/TheWorld/blob/master/readmeimgs/earf.png?raw=true" width="200">
 I got bored at work and made a little simulation of little things staying alive. 
 <br />
 
@@ -27,3 +27,12 @@ so I made a swing-powered ui.
 <summary>Omg they're so hungry!</summary>
 <img alt="Animation of entities eating away at the food and water" src="https://github.com/DistastefulBannock/TheWorld/blob/master/readmeimgs/hungryhungryentities.gif?raw=true" width="500">
 </details>
+
+## How to use
+I highly recommend you fork so you can modify the source code. However, I did a bunch of control options to the start menu in the ui:<br />
+<img alt="Start menu of program" src="https://github.com/DistastefulBannock/TheWorld/blob/master/readmeimgs/startmenu.png?raw=true" width="500">
+<br />
+Here is how the map view looks:<br />
+<img alt="Start menu of program" src="https://github.com/DistastefulBannock/TheWorld/blob/master/readmeimgs/worldmap.png?raw=true" width="500">
+
+Build is posted in release
