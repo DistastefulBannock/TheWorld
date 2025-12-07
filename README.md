@@ -1,6 +1,7 @@
 ## The world
 A simulation of little entities that like to eat calories and drink water bceause they die when they don't do those things :c
-<img alt="The map that is shown in this application" src="https://github.com/DistastefulBannock/TheWorld/blob/master/readmeimgs/earf.png?raw=true" width="200">
+<br />
+<img alt="The map that is shown in this application" src="https://github.com/DistastefulBannock/TheWorld/blob/master/readmeimgs/earf.png?raw=true" width="200"><br />
 I got bored at work and made a little simulation of little things staying alive. 
 <br />
 
