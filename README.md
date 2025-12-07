@@ -29,10 +29,11 @@ so I made a swing-powered ui.
 </details>
 
 ## How to use
-I highly recommend you fork so you can modify the source code. However, I did a bunch of control options to the start menu in the ui:<br />
+The build is posted in release, but I highly recommend you fork so you can modify the source code.
+<br />
+I did a bunch of control options to the start menu in the ui if you're lazy though:<br />
 <img alt="Start menu of program" src="https://github.com/DistastefulBannock/TheWorld/blob/master/readmeimgs/startmenu.png?raw=true" width="350">
 <br />
 Here is how the map view looks:<br />
 <img alt="Start menu of program" src="https://github.com/DistastefulBannock/TheWorld/blob/master/readmeimgs/worldmap.png?raw=true" width="500">
 
-Build is posted in release

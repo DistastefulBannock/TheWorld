@@ -143,7 +143,9 @@ public class SwingUserInterfaceImpl extends JFrame implements UserInterface {
                 bottomControlPane.revalidate();
                 bottomControlPane.repaint();
 
-                awesomeRunningThread.stop();
+                try{
+                    awesomeRunningThread.stop();
+                }catch (Throwable t){};
                 this.world = null;
                 worldPane.setLayout(new BoxLayout(worldPane, BoxLayout.Y_AXIS));
                 worldPane.removeAll();
